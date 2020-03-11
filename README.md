@@ -1,2 +1,2 @@
 # Cyclic redundancy check (CRC)
-CRC encoder and decoder in Python.
+Code for Cyclic redundancy check (CRC) encoder and decoder written in Python.
